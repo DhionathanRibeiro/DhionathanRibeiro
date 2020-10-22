@@ -1,3 +1,4 @@
 # Hi 👋, I'm Dhionathan Ribeiro
 
-:+1: Um jovem aprendendo a codar :shipit:
+  Um jovem gafanhoto aprendendo a codar 🌩
+  
